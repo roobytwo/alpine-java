@@ -1,0 +1,1 @@
+jdk-8 on alpine with dumb init
